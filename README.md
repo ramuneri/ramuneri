@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Ramune! 👋
 
-<!--
-**ramuneri/ramuneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a second year software engineering student in Vilnius University and a volunteer in MIDI IT team.
 
-Here are some ideas to get you started:
+- 🌱 Open to joining exciting projects that spark creativity and joy!
+- 📫 How to reach me: **[ramune.riau@gmail.com]**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm familiar/know base concepts of:
+- Languages like: C, C++, C#, Java, Python
+- Web technologies: HTML, CSS, JavaScript
+
+<!-- ## GitHub Stats
+![Ramuneri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramuneri&show_icons=true&theme=radical) -->
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ramun%C4%97-riaubait%C4%97-8a07a62b2/)
+- [Facebook](https://www.facebook.com/profile.php?id=100008439726372)
