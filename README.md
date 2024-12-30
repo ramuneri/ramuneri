@@ -8,7 +8,7 @@ I'm a second year software engineering student in Vilnius University and a volun
 
 ## I'm familiar/know base concepts of:
 - Languages like: C, C++, C#, Java, Python
-- Web technologies: HTML, CSS, JavaScript
+- Web technologies: HTML, CSS, JavaScript, TypeScript
 
 <!-- ## GitHub Stats
 ![Ramuneri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramuneri&show_icons=true&theme=radical) -->
