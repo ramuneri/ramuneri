@@ -1,4 +1,4 @@
-# Hi there, I'm Ramune! 👋
+# I'm Ramune 👋
 
 ## About Me
 I'm a second year software engineering student in Vilnius University and a volunteer in MIDI IT team.
