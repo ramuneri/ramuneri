@@ -6,7 +6,7 @@ I'm a second year software engineering student in Vilnius University and a volun
 - 🌱 Open to joining exciting projects that spark creativity and joy!
 - 📫 How to reach me: **[ramune.riau@gmail.com]**.
 
-## I'm familiar/know base concepts of:
+## I'm familiar with:
 - Languages like: C, C++, C#, Java, Python
 - Web technologies: HTML, CSS, JavaScript, TypeScript
 
