@@ -1,7 +1,7 @@
 # I'm Ramune 👋
 
 ## About Me
-I'm a second year software engineering student in Vilnius University and a volunteer in 2025 MIDI IT team.
+I'm a third year software engineering student in Vilnius University and a volunteer in 2025 MIDI IT team.
 
 - 🌱 Open to joining exciting projects that spark creativity and joy!
 - 📫 How to reach me: **[ramune.riau@gmail.com]**.
